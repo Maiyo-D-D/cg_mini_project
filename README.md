@@ -67,6 +67,6 @@ The output is an animated GIF named `solar_system_full_revolution.gif` that show
 ## Usage
 Run the script to generate the GIF:
 ```bash
-python script_name.py
+python revolution.py
 ```
-Replace `script_name.py` with the actual name of the script file.
+Replace `revolution.py` with the actual name of the script file.
